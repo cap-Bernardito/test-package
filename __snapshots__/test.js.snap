@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`compress html: result 1`] = `"<p title=blah id=moo>foo</p>"`;
